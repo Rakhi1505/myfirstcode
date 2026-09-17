@@ -1,0 +1,2 @@
+# myfirstcode
+THIS IS MY FIRST GIT REPOSITORY
